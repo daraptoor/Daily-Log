@@ -1,7 +1,9 @@
 ### 15-Nov-2018 ###
-1) Had metting with Truly Madly
-2) created delivery time report for truly Madly
-3)
+1) Had metting with Truly Madly.
+2) created delivery time report for truly Madly.
+3) Fixed Order Delivey Status issue in Teafloor.
+4) Meeting with Team.
+5) Worked on magento Teafloor christmas page.
 
 ### 14-Nov-2018 ###
 1) worked on home registery
