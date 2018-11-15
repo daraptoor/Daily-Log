@@ -1,0 +1,13 @@
+### 15-Nov-2018 ###
+1) Had metting with Truly Madly
+2) created delivery time report for truly Madly
+3)
+
+### 14-Nov-2018 ###
+1) worked on home registery
+2) fixed some issue in Cretanium
+
+### 13-Nov-2018 ###
+1) Created get referral data API for munafa mart
+2) fixed strapi duplicate fields issue
+
