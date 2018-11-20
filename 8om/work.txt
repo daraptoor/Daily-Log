@@ -1,3 +1,24 @@
+### 20-Nov-2018 ###
+1) vikasspool server setup + merged directory.
+2) 
+
+### 19-Nov-2018 ###
+1) fixed cretanium issue
+2) fix issue in boloo
+3) made updates in tm
+
+### 18-Nov-2018 ###
+ Sunday
+
+### 17-Nov-2018 ###
+1) worked on vikasspool
+2) worked on cretanium
+3) fixed issue on TM 
+
+### 16-Nov-2018 ###
+1) worked on munafa mart app.
+2) worked on cretanium
+
 ### 15-Nov-2018 ###
 1) Had metting with Truly Madly.
 2) created delivery time report for truly Madly.
