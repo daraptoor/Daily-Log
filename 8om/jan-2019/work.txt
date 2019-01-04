@@ -1,3 +1,7 @@
+### 04-Jan-2019 ###
+1) Munafa Mart app Changes
+2) Update version and control
+
 ### 03-Jan-2019 ###
 1) Munafa Mart app
 2) fixed few issues
