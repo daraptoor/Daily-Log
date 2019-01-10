@@ -1,3 +1,8 @@
+### 10-Jan-2019 ###
+1) Teafloor Website work
+2) Teafloor fixes Continues
+3) Munafa app offer page removed
+
 ### 09-Jan-2019 ###
 1) Teafloor Website work
 2) Teafloor fixes Continues
